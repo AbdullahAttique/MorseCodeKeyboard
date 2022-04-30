@@ -11,6 +11,6 @@ Featuring the Kailh 'Big Switch', an oversized version of a standard mechanical 
 
 ## Images
 The Keyboard
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![The Keyboard](https://github.com/AbdullahAttique/MorseCodeKeyboard/blob/main/keyboard.jpg?raw=true)
 
 
